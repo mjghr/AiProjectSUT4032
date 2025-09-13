@@ -10,7 +10,7 @@
 ### 👥 Team Members
 
 - **Nazanin Yousefi** - 401110172
-- **Mahan Gharegozlou** - 401170134
+- **Mohammad Javad "Mahan" Gharegozlou** - 401170134
 - **MohammadMahdi NouriBorji** - 401170061
 
 ---
